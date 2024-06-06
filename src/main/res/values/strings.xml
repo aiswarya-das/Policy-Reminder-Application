@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Policy Reminder</string>
+    <string name="no_cardetails">no_cardetails</string>
+    <string name="details">details</string>
+    <string name="date">date</string>
+    <string name="time">time</string>
+    <string name="repeat">repeat</string>
+    <string name="repeat_no">repeat_no</string>
+    <string name="repeat_type">repeat_type</string>
+    <string name="add_reminder">add_reminder</string>
+</resources>
